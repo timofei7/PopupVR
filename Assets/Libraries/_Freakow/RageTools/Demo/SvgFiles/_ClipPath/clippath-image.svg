@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="cliptest.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.89702957"
+     inkscape:cx="537.40854"
+     inkscape:cy="533.92832"
+     inkscape:window-x="1436"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2992">
+      <path
+         id="path2994"
+         d="m 270.72088,338.18433 c 16.92527,-6.34101 28.75636,-6.31431 40.4061,-6.06091 6.23244,-3.92626 13.97652,-6.84476 24.24367,-8.08122 l 119.198,0 c 30.06749,14.0425 56.38449,31.83549 71.72083,60.60915 l 2.0203,208.09142 c -26.63906,37.86587 -52.99598,74.60316 -71.72083,80.81221 -23.54266,18.10623 -52.90441,32.05597 -85.86297,43.43656 -26.43894,-0.36319 -51.87507,3.28488 -80.8122,-7.07107 -30.2229,-27.64513 -38.6245,-45.61472 -52.02285,-67.17514 -7.23125,-17.36551 -16.72902,-27.93143 -17.67768,-64.14469 -6.50298,-31.05032 -12.45116,-62.90202 -7.07106,-111.11678 3.89171,-61.38577 12.46576,-66.58356 20.20305,-81.82236 10.27952,-18.00475 19.34467,-37.22387 37.37564,-47.47717 z"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="l0ayer"
+     id="layer1">
+    <image
+       y="321.03699"
+       x="114.62862"
+       id="image2993"
+       xlink:href="file:///C:/RageTools3/Assets/_Freakow/RageTools/Demo/ClipTest/Baby.jpg"
+       height="473"
+       clip-path="url(#clipPath2992)"
+       width="473" />
+  </g>
+</svg>
