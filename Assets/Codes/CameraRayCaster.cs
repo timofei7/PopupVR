@@ -17,7 +17,7 @@ public class CameraRayCaster : MonoBehaviour {
 	{
 		ray = new Ray(camTransform.position, camTransform.forward);
 
-		if (Physics.Raycast(ray, out hit, 100f)) 
+		if (Physics.Raycast(ray, out hit, 10000f)) 
 		{
 			if ( hit.transform.gameObject.Equals(lastGO) )
 			{
